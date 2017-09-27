@@ -1,0 +1,8 @@
+cl\bicevida\object\PagoPublicoVO.class
+cl\bicevida\object\ResultadoConsultaVO.class
+cl\bicevida\object\DataBanco.class
+cl\bicevida\object\PagoDatosClienteVO.class
+cl\bicevida\botonpago\vo\in\InCorreo.class
+cl\bicevida\processor\ExceptionProcessor.class
+cl\bicevida\object\PagoBancoInfoVo.class
+cl\bicevida\object\OutException.class
